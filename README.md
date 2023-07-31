@@ -11,7 +11,8 @@ pip install pyttsx3 speechrecognition datetime opencv-python-headless random req
 ```
 
 ### Speech Recognition Setup:
-- For Bumblebee to understand your voice commands, you may need to set up the appropriate microphone as the default input device on your system. Make sure the microphone is functional and noise-free.
+- For Bumblebee to understand your voice commands, you may need to set up the appropriate microphone as the default input device on your system.
+- Make sure the microphone is functional and noise-free.
 
 ### Usage:
 - Run the Python script and wait for Bumblebee's initialization.
